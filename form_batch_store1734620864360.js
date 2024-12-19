@@ -1,0 +1,1 @@
+import{F as o}from"./form-store.util1734620864360.js";import"./field.service1734620864360.js";import"./index1734620864360.js";import"./index17346208643602.js";import"./rule-enum1734620864360.js";const p=new o("BATCH").createStore();export{p as form_store_batch};
